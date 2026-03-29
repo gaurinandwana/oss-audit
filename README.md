@@ -5,8 +5,8 @@ A Capstone Project for the Open Source Software (NGMC) Course at VIT
 
 | | |
 |---|---|
-| **Student** | Vani |
-| **Registration Number** | 24BCE11269 |
+| **Student** | Gauri |
+| **Registration Number** | 24BCE10245 |
 | **Course** | Open Source Software |
 | **Audited Software** | Python (CPython) |
 | **Licence Audited** | Python Software Foundation Licence v2 (PSF-2.0) |
